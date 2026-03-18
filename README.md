@@ -1,127 +1,198 @@
-<h1 align="center">🦇 Devansh Sharma</h1>
-<h3 align="center">"Not just building models — engineering intelligence."</h3>
+<div align="center">
 
-<p align="center">
-  <img src="YOUR_GIF_LINK_HERE" width="600"/>
-</p>
-
----
-
-## 🌑 Profile
-
-```txt
-AI/ML Developer | Research-Oriented Builder  
-Focused on real-world intelligence systems  
-Operating at the intersection of Deep Learning + Systems Thinking
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║       A I / M L   D E V E L O P E R   &   B U I L D E R     ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
 
-* 🧠 Designing **end-to-end ML systems**, not isolated models
-* ⚙️ Translating theory → scalable, deployable solutions
-* 🌌 Exploring the limits of **model efficiency, reasoning & interpretability**
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDIxZXRta21neW1jbzU2cW44MDlsczd4Ynh2a3o4YXZteGFieXc1YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sWf6O1VTBQq9VQAVSA/giphy.gif" width="280"/>
 
----
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=FF6B35&center=true&vCenter=true&width=600&lines=AI%2FML+Developer+%7C+Research-Oriented+Builder;Deep+Learning+%2B+Systems+Thinking;Building+Intelligence+That+Ships.)
 
-## 🧪 Research Interests
+</div>
 
-```txt
-→ Explainable AI (XAI)
-→ Quantization in Mixture-of-Experts (MoE)
-→ Backbone Scaling in Deep Architectures
-→ Attention Mechanisms & Efficiency Optimization
+<br>
+
+```
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+  PROFILE
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
 ```
 
-* 🔍 Making black-box models **interpretable & trustworthy**
-* ⚡ Optimizing large-scale architectures for **efficiency without performance loss**
-* 🧠 Investigating **attention dynamics in modern transformers**
+```txt
+┌─────────────────────────────────────────────────────────────┐
+│  AI/ML Developer  |  Research-Oriented Builder              │
+│  Focused on real-world intelligence systems                 │
+│  Operating at the intersection of Deep Learning             │
+│  + Systems Thinking                                         │
+└─────────────────────────────────────────────────────────────┘
+```
 
----
+- Designing **end-to-end ML systems**, not isolated models
+- Translating theory → scalable, deployable solutions
+- Exploring the limits of **model efficiency, reasoning & interpretability**
 
-## 🧰 Systems & Projects
+<br>
 
-### ⚡ Intelligent Systems
+```
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+  RESEARCH INTERESTS
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+```
 
-* 🔥 **Wildfire Prediction System**
-  → CNN + LSTM hybrid for spatio-temporal forecasting
+```
+┌──────────────────────────────────────────────────────────────────┐
+│                                                                  │
+│   [XAI]   Explainable AI                                         │
+│   [MoE]   Quantization in Mixture-of-Experts                     │
+│   [SCL]   Backbone Scaling in Deep Architectures                 │
+│   [ATT]   Attention Mechanisms & Efficiency Optimization         │
+│                                                                  │
+└──────────────────────────────────────────────────────────────────┘
+```
 
-* 🌊 **Disaster Prediction Platform**
-  → Multi-modal pipeline integrating satellite + temporal data
+- Making black-box models **interpretable & trustworthy**
+- Optimizing large-scale architectures for **efficiency without performance loss**
+- Investigating **attention dynamics in modern transformers**
 
----
+<br>
 
-### 🧠 LLM & Retrieval Systems
+```
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+  SYSTEMS & PROJECTS
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+```
 
-* 📚 **RAG-Based Systems**
-  → Context-aware pipelines using retrieval + generation
-  → Focus on **accuracy, grounding & hallucination reduction**
+**`// INTELLIGENT SYSTEMS`**
 
----
+```
+ ┌─ Wildfire Prediction System ─────────────────────────────────┐
+ │  CNN + LSTM hybrid for spatio-temporal forecasting           │
+ └──────────────────────────────────────────────────────────────┘
+ ┌─ Disaster Prediction Platform ───────────────────────────────┐
+ │  Multi-modal pipeline integrating satellite + temporal data  │
+ └──────────────────────────────────────────────────────────────┘
+```
 
-### 📊 Data & Graph Intelligence
+**`// LLM & RETRIEVAL SYSTEMS`**
 
-* 📈 **Data Analysis Engine**
-  → Insight extraction from structured datasets
+```
+ ┌─ RAG-Based Systems ──────────────────────────────────────────┐
+ │  Context-aware pipelines using retrieval + generation        │
+ │  Focus on accuracy, grounding & hallucination reduction      │
+ └──────────────────────────────────────────────────────────────┘
+```
 
-* 🎵 **Graph-Based Music Recommender**
-  → Relationship-driven recommendation system
-  → Leveraging graph structures over traditional similarity
+**`// DATA & GRAPH INTELLIGENCE`**
 
----
+```
+ ┌─ Data Analysis Engine ───────────────────────────────────────┐
+ │  Insight extraction from structured datasets                 │
+ └──────────────────────────────────────────────────────────────┘
+ ┌─ Graph-Based Music Recommender ──────────────────────────────┐
+ │  Relationship-driven recommendation system                   │
+ │  Leveraging graph structures over traditional similarity     │
+ └──────────────────────────────────────────────────────────────┘
+```
 
-### 🧬 Medical AI
+**`// MEDICAL AI`**
 
-* 🏥 **Tumor Detection & Segmentation**
-* 🦴 **Bone Age Prediction (ResNet-based Regression)**
+```
+ ┌─ Tumor Detection & Segmentation ─────────────────────────────┐
+ │  Precision segmentation for clinical imaging workflows using |
+ |  3D U-Nets                                                   |
+ └──────────────────────────────────────────────────────────────┘
+ ┌─ Bone Age Prediction ────────────────────────────────────────┐
+ │  ResNet-based regression for skeletal maturity estimation    │
+ └──────────────────────────────────────────────────────────────┘
+```
 
----
+<br>
 
-## ⚙️ Tech Stack
+```
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+  TECH STACK
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+```
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,mysql,aws,tensorflow,pytorch,opencv,sklearn,redis" />
-</p>
+<div align="center">
 
----
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js,mysql,aws,tensorflow,pytorch,opencv,sklearn,redis" />
 
-## 🌐 Connect
+</div>
 
-<p align="center">
+<br>
+
+```
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+  CONNECT
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+```
+
+<div align="center">
+
 <a href="https://linkedin.com/in/devansh-sharma-086aa5245">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  <img src="https://img.shields.io/badge/LinkedIn-0D1B2A?style=for-the-badge&logo=linkedin&logoColor=FF6B35" height="40" />
 </a>
+&nbsp;&nbsp;
 <a href="https://instagram.com/de_vansh05">
-  <img src="https://skillicons.dev/icons?i=instagram" height="40" />
+  <img src="https://img.shields.io/badge/Instagram-0D1B2A?style=for-the-badge&logo=instagram&logoColor=FF6B35" height="40" />
 </a>
+&nbsp;&nbsp;
 <a href="https://www.leetcode.com/thedarknight016">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" height="40" />
+  <img src="https://img.shields.io/badge/LeetCode-0D1B2A?style=for-the-badge&logo=leetcode&logoColor=FF6B35" height="40" />
 </a>
-</p>
 
----
+</div>
 
-## 📊 System Metrics
+<br>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dsthebest&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+```
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+  SYSTEM METRICS
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+```
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dsthebest&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=dsthebest&show_icons=true&hide_border=true&bg_color=0D1B2A&title_color=FF6B35&icon_color=FF6B35&text_color=C9D6E3&ring_color=FF6B35" />
 
-## ⚡ Runtime Loop
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dsthebest&hide_border=true&background=0D1B2A&ring=FF6B35&fire=FF6B35&currStreakLabel=FF6B35&sideLabels=C9D6E3&dates=C9D6E3&sideNums=FF6B35&currStreakNum=FFFFFF" />
+
+</div>
+
+<br>
+
+```
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+  RUNTIME LOOP
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+```
 
 ```python
+# ┌─────────────────────────────────┐
+# │   D E V A N S H  .  E X E       |
+# └─────────────────────────────────┘
+
 while True:
-    observe()
-    learn()
-    optimize()
-    deploy()
+    observe()     #  intake signal
+    learn()       #  compress knowledge
+    optimize()    #  sharpen the edge
+    deploy()      #  ship it
 ```
 
----
+<br>
 
-## 🦇 Closing Signal
-
-> "It's not who I am underneath, but what I do that defines me."
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+    "Why do we fall, Sir? So that we can learn to pick           
+     ourselves up."                                               
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
